@@ -16,3 +16,9 @@ where Z is the pixel nums of feature map.
 ## GradCAM Usage
 
 Overide the following part for preprocessing and fetching the input tensor and auxiliary tensors 
+
+Please reference the following for further details:
+
+[model explanation](https://bindog.github.io/blog/2018/02/10/model-explanation/)
+
+[grad-cam.tensorflow](https://github.com/Ankush96/grad-cam.tensorflow)
